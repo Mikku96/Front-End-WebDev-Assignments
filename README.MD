@@ -8,10 +8,10 @@ Personally, from these I recommend **6**, **7** and **11**.
 **In addition to these selected assignments, check out the two group projects:**
 
 Javascript, HTML and CSS based "freeform group project":
-[MessageForum]()
+[Forum FrontEnd](https://github.com/Mikku96/ForumFrontEnd)
 
 Javascript, React, React-Router and Tailwind based Scrum-project:
-[Flight Price Comparison]()
+[Flight Price Comparison](https://github.com/Mikku96/FlightPriceComparisonFrontEnd)
 
 The description what the program does are given in the sub-folders' own README.MD files. Here, I describe what was the technical learning point.
 
