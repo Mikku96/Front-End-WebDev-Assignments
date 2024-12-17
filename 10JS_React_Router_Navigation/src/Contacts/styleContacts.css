@@ -1,0 +1,13 @@
+.contactPage {
+    color:red;
+    text-align: center;
+}
+
+.info {
+    color:purple;
+}
+
+.hideContact{
+    display:flex;
+    justify-content: center;
+}

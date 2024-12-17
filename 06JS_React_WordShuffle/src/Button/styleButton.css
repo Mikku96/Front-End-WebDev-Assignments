@@ -1,0 +1,16 @@
+.testButton {
+    border: solid black 1px;
+    background-color: rgb(226, 196, 255);
+    width:30px;
+    height:30px;
+}
+
+.testButton:hover {
+    opacity: 50%;
+}
+
+.gameStarter {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width:60px;
+    height: 40px;
+}

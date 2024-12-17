@@ -1,0 +1,21 @@
+.formClass {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    row-gap:3px;
+}
+
+.inputField {
+    width: 200px;
+}
+
+.formTextArea {
+    min-width: 400px;
+    font-size: 16pt;
+}
+
+
+.submitButton {
+    width:60px;
+    align-self: flex-start;
+}

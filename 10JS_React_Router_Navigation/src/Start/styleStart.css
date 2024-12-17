@@ -1,0 +1,14 @@
+.mainPage{
+    color:blue;
+    margin: auto;
+    max-width: 750px;
+    margin: auto;
+    text-align: center;
+}
+
+.navigationButtons {
+    display:flex;
+    column-gap: 20px;
+    flex-wrap:wrap;
+    justify-content: center;
+}

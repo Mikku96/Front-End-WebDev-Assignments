@@ -1,0 +1,8 @@
+.letterBar {
+    width: 400px;
+    text-align:center;
+    height:50px;
+    border:solid 3px black;
+    font-family:'Lucida Sans', Arial, sans-serif;
+    font-size: 35pt;
+}

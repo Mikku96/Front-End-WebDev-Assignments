@@ -1,0 +1,53 @@
+.singleMessage {
+    border:solid black 1px;
+    background-color: rgb(112, 0, 218);
+    color:white;
+    width:400px;
+    margin: 10px;
+    border-radius: 30px;
+    overflow:hidden;
+}
+
+.singleMessageEdit {
+    border:solid black 1px;
+    background-color: rgb(187, 114, 255);
+    color:white;
+    width:400px;
+    margin: 10px;
+    border-radius: 30px;
+    overflow:hidden;
+}
+
+.topBar {
+    display:flex;
+    background-color: rgb(33, 0, 151);
+    border-bottom: black solid 1px;
+    color: white;
+    margin-top: 0;
+    padding-right:20px;
+    justify-content: space-between;
+}
+
+.messageID {
+    margin-right:5px;
+}
+
+.timeStamp {
+    margin-left: 5px;
+}
+
+.messageContent {
+    margin-left:5px;
+}
+
+.editTextArea {
+    margin-left: 20px;
+    max-width: 350px;
+    min-width:350px;
+}
+
+.messageBoxButtons {
+    display:flex;
+    justify-content: end;
+    margin-right:30px;
+}

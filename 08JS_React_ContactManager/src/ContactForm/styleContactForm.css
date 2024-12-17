@@ -1,0 +1,4 @@
+.contactArea{
+    display:flex;
+    flex-direction: column;
+}

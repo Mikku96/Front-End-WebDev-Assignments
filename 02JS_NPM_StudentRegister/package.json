@@ -1,0 +1,13 @@
+{
+  "name": "assignment-12.12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "node ./src/index.js debug"
+  },
+  "author": "",
+  "license": "ISC"
+}

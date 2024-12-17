@@ -1,0 +1,14 @@
+.gameFormArea {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputBox {
+    width: 40px;
+    height: 40px;
+    font-size:30pt;
+    text-align: center;
+}

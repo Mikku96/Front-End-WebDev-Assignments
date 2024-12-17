@@ -1,0 +1,15 @@
+{
+  "name": "assignment-13.10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "numberGame.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/numberGame.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

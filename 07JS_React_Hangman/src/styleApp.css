@@ -1,0 +1,39 @@
+.appArea {
+    width: 600px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.hangmanImageState {
+    width: 200px;
+}
+
+.randomWord {
+    display:flex;
+    column-gap: 10px;
+    text-decoration: underline;
+    font-size: 50pt;
+    justify-content: center;
+    height: 1px;
+    margin-top: -50px;
+}
+
+.usedLettersRow {
+    display:flex;
+    justify-content: center;
+}
+
+.usedLetters {
+    letter-spacing:3pt;
+}
+
+.statusText {
+    font-weight: bold;
+}
+
+.letterOfWord {
+    height: 20px;
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Alva Marinez",
+    "courses": [
+      {
+        "name": "Intro to Programming",
+        "credits": 5,
+        "grade": 4
+      },
+      {
+        "name": "JavaScript Basics",
+        "credits": 8,
+        "grade": 3
+      },
+      {
+        "name": "Functional Programming",
+        "credits": 6,
+        "grade": 5
+      }
+    ]
+  },
+  {
+    "name": "Robbie Daniels",
+    "courses": [
+      {
+        "name": "Intro to Programming",
+        "credits": 5,
+        "grade": 5
+      },
+      {
+        "name": "JavaScript Basics",
+        "credits": 8,
+        "grade": 2
+      },
+      {
+        "name": "Advanced C#",
+        "credits": 12,
+        "grade": 3
+      }
+    ]
+  }
+]
