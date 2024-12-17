@@ -1,9 +1,11 @@
 # WebDev-Assignments
-Select few of assigments I completed in Buutti's Front End Web-dev course.
-The number in front of the folder tells the order these tasks were completed during the few months the course took. 01 came before 02 etc. 
+Select few of assigments I completed in Buutti's Front End Web-dev course. In total, I completed approximately 260 assignments of varying difficulty during 22 lectures.
 
+The number in front of the folder tells the order these tasks were completed during the few months the course took. 01 came before 02 etc. 
 The complexity of tasks somewhat increase as the folder number increases. 10 and 11 are from extra lectures, and do not follow this rule strictly.
 Personally, from these I recommend **6**, **7** and **11**.
+
+The description what the program does are given in the sub-folders' own README.MD files. Here, I describe what was the technical learning point.
 
 **In addition to these selected assignments, check out the two group projects:**
 
@@ -12,8 +14,6 @@ Javascript, HTML and CSS based "freeform group project":
 
 Javascript, React, React-Router and Tailwind based Scrum-project:
 [Flight Price Comparison](https://github.com/Mikku96/FlightPriceComparisonFrontEnd)
-
-The description what the program does are given in the sub-folders' own README.MD files. Here, I describe what was the technical learning point.
 
 **Contact me, if you want to access all the assignments.**
 
